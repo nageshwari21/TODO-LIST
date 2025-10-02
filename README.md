@@ -39,7 +39,7 @@ Try it here: [To-Do List Live](https://todo-list-68ws.onrender.com)
 
 ## 👩‍💻 Author
 **Nageshwari Ghongade**  
-📧 Email: your.email@example.com  
+📧 Email: ghongadenisha@gmail.com  
 🌐 GitHub: [https://github.com/nageshwari21](https://github.com/nageshwari21)  
 
 
